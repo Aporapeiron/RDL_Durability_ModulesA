@@ -1,8 +1,8 @@
-# RDL Modules
+# RDL Durability Modules
 
-**RDL_Modules** は、RDL Core の上で動く **T2 代謝機構層** のリポジトリである。
+**RDL_Durability_Modules** は、RDL Core の上層である **T2 運用・耐久検査機関** のリポジトリです。
 
-RDL Core が、RDL の基底仮設・最低動作仕様・基本代謝プロセスを保持するのに対し、RDL_Modules は、その代謝を実際に動かすための機構・操作群・補助ツールを育てる場所として扱う。
+RDL Core が、RDL の基底仮設・最低動作仕様・基本代謝プロセスを保持するのに対し、RDL_Durability_Modules は、その代謝を実際に動かすための機構・操作群・補助ツールを育てる場所として扱う。
 
 ```text
 T0 = 何を前提にするか
